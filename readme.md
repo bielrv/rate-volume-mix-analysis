@@ -22,19 +22,20 @@ When several channels, products, rates or type of clients are involved a deeper 
 
  **Weight**<sub>1</sub> = Volume<sub>1</sub> / Total Volume  
  **Contribution**<sub>1</sub> = Rate<sub>1</sub> x  Volume<sub>1</sub>
-
-<img src="https://latex.codecogs.com/svg.latex?\text{Weight}_1 = \frac{\text{Volume}_1}{\text{Total Volume}}"/>   
 <br>
-<img src="https://latex.codecogs.com/svg.latex?\Medium&space;\text{Δ Weight}_1 = \text{Vol}_1@PM - \text{Vol}_1@CM"/>    
+![Weight](https://latex.codecogs.com/svg.latex?\text{Weight}_1%20=%20\frac{\text{Volume}_1}{\text{Total%20Volume}})
 <br>
-<img src="https://latex.codecogs.com/svg.latex?\Medium&space;\text{Δ Rate}_1 = \text{Rate}_1@PM - \text{Rate}_1@CM"/>  
+![Delta Weight](https://latex.codecogs.com/svg.latex?\Medium&space;\text{%CE%94%20Weight}_1%20=%20\text{Vol}_1@PM%20-%20\text{Vol}_1@CM)    
+<br>
+![Delta Rate](https://latex.codecogs.com/svg.latex?\Medium&space;\text{%CE%94%20Rate}_1%20=%20\text{Rate}_1@PM%20-%20\text{Rate}_1@CM)  
 <br>
 <br>
-*PM* – Previous Month  
+*PM* – Previous Month
+<br>
 *CM* – Current Month
-
+<br>
 Now we can finally calculate the **Rates variations** and the **Volumes variations** impact on a particular KPI. Thus being able to exactly quantify what is going on behind that single KPI value.
 
-![Rate1](https://latex.codecogs.com/svg.latex?\Medium&space;\text{Rate}_1\text{%20Impact}%20=%20\text{%CE%94%20Rate}_1%20*%20\text{Avg%20Weight}_1)
-
-<img src="https://latex.codecogs.com/svg.latex?\Medium&space;\text{Weight}_1\text{ Impact} = \text{Δ Weight}_1 * \text{Avg Rate}_1"/>
+![Rate Impact](https://latex.codecogs.com/svg.latex?\Medium&space;\text{Rate}_1\text{%20Impact}%20=%20\text{%CE%94%20Rate}_1%20*%20\text{Avg%20Weight}_1)
+<br>
+![Weight Impact](https://latex.codecogs.com/svg.latex?\Medium&space;\text{Weight}_1\text{%20Impact}%20=%20\text{%CE%94%20Weight}_1%20*%20\text{Avg%20Rate}_1)
