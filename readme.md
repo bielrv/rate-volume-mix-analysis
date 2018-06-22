@@ -35,6 +35,6 @@ When several channels, products, rates or type of clients are involved a deeper 
 
 Now we can finally calculate the **Rates variations** and the **Volumes variations** impact on a particular KPI. Thus being able to exactly quantify what is going on behind that single KPI value.
 
-<img src="https://latex.codecogs.com/svg.latex?\Medium&space;\text{Rate}_1\text{ Impact} = \text{Δ Rate}_1 * \text{Avg Weight}_1" title="Rate1"/> 
+![Rate1]\<img src="https://latex.codecogs.com/svg.latex?\Medium&space;\text{Rate}_1\text{ Impact} = \text{Δ Rate}_1 * \text{Avg Weight}_1" title="Rate1"/> 
 <br>
 <img src="https://latex.codecogs.com/svg.latex?\Medium&space;\text{Weight}_1\text{ Impact} = \text{Δ Weight}_1 * \text{Avg Rate}_1"/>
