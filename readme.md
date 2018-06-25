@@ -64,6 +64,7 @@ The only input required for the analysis are  **number of sales** and **invested
 We then calculate CPAs and contributions
 #### CPA and Contribution @PM
 |**Channel**|**Volume@PM**|**Investment@PM**|**CPA@PM**|**Contribution@PM**
+:-----:|:-----:|:-----:|:-----:|:-----:
 Affiliates|12.000| 650.000 € | 54 € |78%
 PPC|1.000| 75.000 € | 75 € |7%
 SEO|2.000| 95.000 € | 48 € |13%
