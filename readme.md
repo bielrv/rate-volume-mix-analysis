@@ -62,3 +62,27 @@ The only input data required is the # sales (volume) and investment per channel 
 
 ### Data processing
 We then calculate CPAs and contributions
+
+|**Channel**|**Volume@PM**|**Investment@PM**|**CPA@PM**|**Contribution@PM**
+:-----:|:-----:|:-----:|:-----:|:-----:
+Affiliates|12.000| 650.000 € | 54 € |78%
+PPC|1.000| 75.000 € | 75 € |7%
+SEO|2.000| 95.000 € | 48 € |13%
+RTB|300| 40.000 € | 133 € |2%
+**Totals**|**15.300**|**860.000 €**|**56 €**|**100%**
+
+**Channel**|**Volume@CM**|**Investment@CM**|**CPA@CM**|**Contribution@CM**
+:-----:|:-----:|:-----:|:-----:|:-----:
+Affiliates|12.000| 650.000 € | 54 € |92%
+PPC|1.000| 75.000 € | 75 € |8%
+SEO|2.000| 95.000 € | 48 € |15%
+RTB|300| 40.000 € | 133 € |2%
+**Total/Avg**|**15.300**|** 860.000 € **|** 56 € **|**118%**
+
+**Channel**|**MoM Volume Dif**|**MoM Investment Dif**|**MoM CPA Dif**|**MoM Contribution Dif**
+:-----:|:-----:|:-----:|:-----:|:-----:
+Affiliates|2.000|-50.000 € |-16 € |15%
+PPC|-500|-5.000 € |22 € |-4%
+SEO|1.000|5.000 € |-43 € |8%
+RTB|-200|-10.000 € |33 € |-2%
+**Total/Avg**|**2.300**|**-60.000**|**-15**|**18%**
