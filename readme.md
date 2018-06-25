@@ -47,25 +47,23 @@ The only input required for the analysis are  **number of sales** and **invested
 
 #### Data from Prior Month (PM)
 |Channel|Volume@PM|Investment@PM €|
-|----------|:-------------:|------:|------:|
-| Affiliates|10.000|700.000|
-| PPC |1.500|80.000|
-| SEO |1.000|90.000|
-| RTB |500|50.000|
-
+|----------|:-------------:|------:|
+| Affiliates|10.000|700.000 € |
+| PPC |1.500|80.000 € |
+| SEO |1.000|90.000 € |
+| RTB |500|50.000 € |
 #### Data from Current Month (CM)
 |Channel|Volume@CM|Investment@CM €|
-|----------|:-------------:|------:|------:|
-| Affiliates|12.000|650.000|
-| PPC |1.000|75.000|
-| SEO |2.000|95.000|
-| RTB |300|40.000|
+|----------|:-------------:|------:|
+| Affiliates|12.000|650.000 € |
+| PPC |1.000|75.000 € |
+| SEO |2.000|95.000 € |
+| RTB |300|40.000 € |
 
 ### Data processing
 We then calculate CPAs and contributions
 #### CPA and Contribution @PM
 |**Channel**|**Volume@PM**|**Investment@PM**|**CPA@PM**|**Contribution@PM**
-:-----:|:-----:|:-----:|:-----:|:-----:
 Affiliates|12.000| 650.000 € | 54 € |78%
 PPC|1.000| 75.000 € | 75 € |7%
 SEO|2.000| 95.000 € | 48 € |13%
@@ -86,4 +84,4 @@ Affiliates|2.000|-50.000 € |-16 € |2%
 PPC|-500|-5.000 € |22 € |-5%
 SEO|1.000|5.000 € |-43 € |5%
 RTB|-200|-10.000 € |33 € |-2%
-**Total/Avg**|**2.300**|**-60.000**|**-15**|**0%**
+**Total/Avg**|**2.300**|**-60.000 €**|**-15 €**|**0%**
