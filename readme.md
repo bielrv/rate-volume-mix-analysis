@@ -1,6 +1,6 @@
 # Rate vs Volume Mix Analysis
 
-It is common in business to analysis Month over Month (MoM) Key Performance Indicators (KPIs). These variations requiere, oftentimes, a deeper understanding other than the total change.
+It is common in business to analysis Month over Month (MoM) Key Performance Indicators (KPIs). These variations requiere, oftentimes, a deeper understanding other than the total absolute change.
 
 ## Reasons of KPI variations
 
@@ -38,3 +38,27 @@ Now we can finally calculate the **Rates variations** and the **Volumes variatio
 ![Rate Impact](https://latex.codecogs.com/svg.latex?\Medium&space;\text{Rate}_1\text{%20Impact}%20=%20\text{%CE%94%20Rate}_1%20*%20\text{Avg%20Weight}_1)
 <br>
 ![Weight Impact](https://latex.codecogs.com/svg.latex?\Medium&space;\text{Weight}_1\text{%20Impact}%20=%20\text{%CE%94%20Weight}_1%20*%20\text{Avg%20Rate}_1)
+
+## Example - Cost Per Adquisition (CPA) MoM
+### Input data
+
+The only input data required is the # sales (volume) and investment per channel as in the following tables.
+
+#### Data from Prior Month
+|Channel|Volume@PM|Investment@PM €|
+|----------|:-------------:|------:|------:|
+| Affiliates|10.000|700.000|
+| PPC |1.500|80.000|
+| SEO |1.000|90.000|
+| RTB |500|50.000|
+
+#### Data from Current Month
+|Channel|Volume@CM|Investment@CM €|
+|----------|:-------------:|------:|------:|
+| Affiliates|12.000|650.000|
+| PPC |1.000|75.000|
+| SEO |2.000|95.000|
+| RTB |300|40.000|
+
+### Data processing
+We then calculate CPAs and contributions
